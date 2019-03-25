@@ -12,5 +12,6 @@ public class App
         // thrid push == last try
         System.out.println("Actually Real Last");
         System.out.println("Please Last commit");
+        System.out.println("test commit");
     }
 }
